@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "name": "The legend of Zelda: Ocarina of Time",
+            "year": 1997,
+            "developers": "Nintendo"
+        },
+        {
+            "name": "TES V: Skyrim",
+            "year": 2011,
+            "developers": "Bethesda"
+        },
+        {
+            "name": "Megaman 3",
+            "year": 1994,
+            "developers": "Sega"
+        }
+    ]
+}
