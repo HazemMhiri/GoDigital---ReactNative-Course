@@ -1,6 +1,6 @@
 import React from "react";
 import { View } from "react-native";
-import { Card, Text } from "@ui-kitten/components";
+import { Card, Text, Button } from "@ui-kitten/components";
 
 import generateStyles from "./styles";
 
@@ -19,7 +19,14 @@ function GameCard(props) {
         )}
       >
         <Text>Year of production: {props.year}</Text>
+        <Button
+          appearance="ghost"
+          onPressOut={() => props.handleCamera(props.name)}
+        >
+          Take a picture
+        </Button>
       </Card>
+
     </>
   );
 }

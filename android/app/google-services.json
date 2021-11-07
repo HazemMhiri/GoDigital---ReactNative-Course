@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "108095665647",
+    "project_id": "godigital-rn",
+    "storage_bucket": "godigital-rn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108095665647:android:aa4b7c9164340a6e10321a",
+        "android_client_info": {
+          "package_name": "com.myrnapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108095665647-na40l6dm85m18mem2obapt4m96asto92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6VTWqGBX5qcdHKNuzRVTL7MsCUbVqdtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108095665647-na40l6dm85m18mem2obapt4m96asto92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

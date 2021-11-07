@@ -8,6 +8,11 @@ export default function generateStyles(window) {
     },
     layout: {
       height: window.height
+    },
+    navBtnContainer: {
+      display: "flex",
+      flexDirection: "row",
+      justifyContent: "space-around"
     }
   });
 }
