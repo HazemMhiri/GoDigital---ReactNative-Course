@@ -7,7 +7,10 @@ export default function generateStyles(window) {
       flexDirection: "column"
     },
     layout: {
-      height: window.height
+      padding: 15
+    },
+    input: {
+      marginVertical:10 
     },
     navBtnContainer: {
       display: "flex",
